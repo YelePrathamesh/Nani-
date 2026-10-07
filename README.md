@@ -1,2 +1,1 @@
-# Nani-
-making the app about the road safety and road services like the helping services like repairs and the  necessary services provider.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
